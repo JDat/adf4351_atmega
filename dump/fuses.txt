@@ -1,0 +1,6 @@
+avrdude: Device signature = 0x1e9307 (probably m8)
+avrdude: reading lock memory:
+avrdude: writing output file "<stdout>"
+0xff
+
+avrdude: safemode: Fuses OK (E:FF, H:D9, L:E1)
